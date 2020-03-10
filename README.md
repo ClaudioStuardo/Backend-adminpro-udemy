@@ -2,7 +2,7 @@
 
 _Curso en línea de Udemy para aprender/practicar MEAN (MongoDB, Express, Angular, NodeJS) de manera avanzada._
 
-## Install Node package
+## Instalar paquetes de Node
 
 ```
 npm install
